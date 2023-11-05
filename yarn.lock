@@ -1198,10 +1198,20 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
-"@expo-google-fonts/inter@^0.2.3":
+"@expo-google-fonts/gloria-hallelujah@^0.2.3":
   version "0.2.3"
-  resolved "https://registry.npmjs.org/@expo-google-fonts/inter/-/inter-0.2.3.tgz"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/gloria-hallelujah/-/gloria-hallelujah-0.2.3.tgz#86705aef474ea64b2fc12a9c2591f91ae2157cbb"
+  integrity sha512-vWPGaPBqA2rjGqFhrEQMt2BgcU4XXpu5/7oqShKDd6Hxq9P9/OOI3wXiq1tkYtNKsHH521DTppYl3MCvrauCPw==
+
+"@expo-google-fonts/macondo@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.npmjs.org/@expo-google-fonts/macondo/-/inter-0.2.3.tgz"
   integrity sha512-iHK9FI+dnE45X5c2Z5hSFwNH4zUWethizpbv3XUn0FIGw5jwvzriENz0a6wCdkI4/d+1QkurnHo5XHti7TbNJA==
+
+"@expo-google-fonts/macondo@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/macondo/-/macondo-0.2.3.tgz#592b35e7fd547a16612441fd318fa78c4f4b66d2"
+  integrity sha512-Xv2JsXwyG8jGN7CdiiXlKN8VD3s/K0yvHQMe9gbaJyzq4vumo1EP7mLzYgcA63YeQDoY9gHh53eEiAtPAfmtSw==
 
 "@expo/bunyan@4.0.0", "@expo/bunyan@^4.0.0":
   version "4.0.0"
@@ -2098,6 +2108,15 @@
   integrity sha512-lTM8gSFHSfkJvQkxacGM6VJtBt61ip2XO54aNfswD+KMw6eeZ4oehl7m0me3CR9hnDE4+60iAZR8sAhvCiI3NA==
   dependencies:
     nanoid "^3.1.23"
+
+"@react-navigation/stack@^6.3.20":
+  version "6.3.20"
+  resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-6.3.20.tgz#8eec944888f317bb1ba1ff30e7f513806bea16c2"
+  integrity sha512-vE6mgZzOgoa5Uy7ayT97Cj+ZIK7DK+JBYVuKUViILlWZy6IWK7HFDuqoChSbZ1ajTIfAxj/acVGg1jkbAKsToA==
+  dependencies:
+    "@react-navigation/elements" "^1.3.21"
+    color "^4.2.3"
+    warn-once "^0.1.0"
 
 "@segment/loosely-validate-event@^2.0.0":
   version "2.0.0"
